@@ -79,7 +79,7 @@ footer {
 
 
 @media (min-width: 992px) {
-    
+
     .main-container {
         overflow-x: scroll;
         overflow-y: hidden;
