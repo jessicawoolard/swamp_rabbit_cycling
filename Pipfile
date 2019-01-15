@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 gunicorn = "*"
 flask = "*"
+requests = "*"
+json = "*"
 
 [requires]
 python_version = "3.7"
