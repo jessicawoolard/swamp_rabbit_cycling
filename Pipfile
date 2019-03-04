@@ -1,4 +1,4 @@
-git = {stat = [source]}
+[[source]]
 name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
@@ -9,7 +9,7 @@ verify_ssl = true
 gunicorn = "*"
 flask = "*"
 requests = "*"
-json = "*"
+
 
 [requires]
 python_version = "3.7"
