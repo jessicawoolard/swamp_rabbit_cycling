@@ -1,5 +1,3 @@
-import csv
-
 from flask import Flask
 from flask import request
 import requests
